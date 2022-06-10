@@ -1,9 +1,9 @@
 # Movies-Application
-Built **IMDB Movies Application** using **React**
+Built **IMDB Movies Application** using **React**.
 
 
 **New React Concepts Learned and Implemented:**
- Context API : used to avoid props drilling and improve performance of the application
+ Context API : used to avoid props drilling and improve performance of the application.
 
 
 
@@ -11,7 +11,7 @@ Built **IMDB Movies Application** using **React**
 
 1.Filteration based on genre and searched movies.
 
-2.Pagination
+2.Pagination.
 
 3.Dynamically changing maximum number of element displayed in single page.
 
